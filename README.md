@@ -1,5 +1,8 @@
 # Sales_BI_Project
 This case study is based on a computer hardware company operating in a highly competitive and dynamically changing market. Due to increasing market complexity and fluctuating demand, the Sales Director decided to invest in a data analytics project to gain real-time insights into sales performance and support strategic decision-making.
+# Dashboard Overview
+The dashboard provides a high-level overview of sales performance, integrating key KPIs such as total revenue and sales quantity with supporting visualizations, including regional breakdowns, sales trends, and top customers analysis.
+
 # 🎯 Problem Statement
 
 The company faced the following challenges:
