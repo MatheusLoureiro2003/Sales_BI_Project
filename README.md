@@ -1,6 +1,6 @@
 # Sales_BI_Project
 This case study is based on a computer hardware company operating in a highly competitive and dynamically changing market. Due to increasing market complexity and fluctuating demand, the Sales Director decided to invest in a data analytics project to gain real-time insights into sales performance and support strategic decision-making.
-🎯 Problem Statement
+#🎯 Problem Statement
 
 The company faced the following challenges:
 
@@ -14,7 +14,7 @@ Slow, manual reporting processes
 
 The goal of this project was to build an interactive Power BI dashboard capable of delivering clear, reliable, and actionable sales insights.
 
-🛠️ Tools & Technologies
+#🛠️ Tools & Technologies
 
 MySQL – Data storage and initial data import
 
@@ -24,7 +24,7 @@ SQL – Data querying and validation
 
 DAX – Measures and business logic
 
-🔄 Data Pipeline (ETL Process)
+#🔄 Data Pipeline (ETL Process)
 
 Data Import
 
@@ -52,7 +52,7 @@ Relationships between tables were defined following best practices.
 
 A clean and efficient data model was built to support analysis.
 
-📐 Metrics & Analysis
+#📐 Metrics & Analysis
 
 The following analyses were developed:
 
@@ -72,7 +72,7 @@ Descriptive statistics for sales performance evaluation
 
 All business metrics were implemented using DAX measures.
 
-📊 Dashboard Overview
+#📊 Dashboard Overview
 
 The final Power BI dashboard provides:
 
@@ -96,7 +96,7 @@ Improved visibility into revenue concentration
 
 Faster and more reliable reporting for management
 
-📁 Repository Content
+#📁 Repository Content
 
 /dashboard – Power BI (.pbix) file
 
@@ -106,7 +106,7 @@ Faster and more reliable reporting for management
 
 /docs – Data model and documentation
 
-📌 How to Use
+#📌 How to Use
 
 Clone the repository
 
@@ -116,7 +116,7 @@ Update database credentials if needed
 
 Refresh the data to explore the dashboard
 
-👤 Author
+#👤 Author
 
 Matheus Loureiro
 Data Analysis & Business Intelligence Enthusiast
