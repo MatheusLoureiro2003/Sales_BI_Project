@@ -98,7 +98,7 @@ Faster and more reliable reporting for management
 
 # 📁 Repository Content
 
-/dashboard – Power BI (.pbix) file
+/Sales_Data_Analisys – Power BI (.pbix) file
 
 /data – Raw data and SQL scripts
 
